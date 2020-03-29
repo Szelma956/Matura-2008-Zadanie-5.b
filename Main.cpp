@@ -60,5 +60,5 @@ int main()
     stat << max_has << '\n' << min_has << '\n';
     stat << "3.\n";
     stat << dlug_w_has << '\n';
-
+    return 0;
 }
